@@ -8,3 +8,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42748
 
 설명 https://jason-api.tistory.com/44
 
+2. 모의고사 
+
+https://programmers.co.kr/learn/courses/30/lessons/42840
+
+설명 https://jason-api.tistory.com/46
+
+
