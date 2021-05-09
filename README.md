@@ -15,3 +15,8 @@ https://programmers.co.kr/learn/courses/30/lessons/42840
 설명 https://jason-api.tistory.com/46
 
 
+3. 문자열 내 p와 y의 개수 
+
+https://programmers.co.kr/learn/courses/30/lessons/12916
+
+설명 https://jason-api.tistory.com/47
