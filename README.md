@@ -20,3 +20,8 @@ https://programmers.co.kr/learn/courses/30/lessons/42840
 https://programmers.co.kr/learn/courses/30/lessons/12916
 
 설명 https://jason-api.tistory.com/47
+
+소수 만들기 makePrime
+
+https://programmers.co.kr/learn/courses/30/lessons/12977
+
