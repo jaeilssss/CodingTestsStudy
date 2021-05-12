@@ -26,3 +26,10 @@ https://programmers.co.kr/learn/courses/30/lessons/12916
 https://programmers.co.kr/learn/courses/30/lessons/12977
 
 설명 https://jason-api.tistory.com/49
+
+codingTest5 나누어 떨어지는 숫자 배열 
+
+https://programmers.co.kr/learn/courses/30/lessons/12910
+
+설명 https://jason-api.tistory.com/50
+
