@@ -33,3 +33,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12910
 
 설명 https://jason-api.tistory.com/50
 
+codingTest6 같은 숫자는 싫어
+
+https://programmers.co.kr/learn/courses/30/lessons/12906
+
+https://jason-api.tistory.com/52
+
