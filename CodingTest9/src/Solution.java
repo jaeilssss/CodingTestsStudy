@@ -78,7 +78,6 @@ class Solution {
                 answer = answer.concat("R");
                 right = numbers[i];
             }else{
-
                  if(numbers[i]==2){
                      if(two.get(left).equals(two.get(right))){
                          if(hand.equals("right")){
