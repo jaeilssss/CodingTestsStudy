@@ -80,6 +80,6 @@ codingTest14 [코딩테스트] 크레인 인형뽑기 게임 2019 카카오 개�
 
 https://programmers.co.kr/learn/courses/30/lessons/64061
 
-https://jason-api.tistory.com/59
+설명 https://jason-api.tistory.com/59
 
 
