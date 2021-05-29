@@ -12,6 +12,7 @@ class Solution {
                 progresses[i] = progresses[i]+speeds[i];
                 if(progresses[i]>100){
                     progresses[i]=100;
+
                 }
                 if(progresses[i]==100){
                     if(start==i){
